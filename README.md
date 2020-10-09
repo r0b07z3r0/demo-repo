@@ -7,3 +7,4 @@ This is a demo repository
 ## Local Dev
 
 open index in browser
+Have fun
